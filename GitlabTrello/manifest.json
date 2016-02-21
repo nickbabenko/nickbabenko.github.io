@@ -1,8 +1,8 @@
 {
     "name": "GitLab",
-    "details": "",
+    "details": "Gitlab integration",
     "icon": {
-        "url": ""
+        "url": "./img/logo.png"
     },
     "author": "Nick Babenko",
     "capabilities": [
