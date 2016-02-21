@@ -6,9 +6,6 @@
     },
     "author": "Nick Babenko",
     "capabilities": [
-        "attachment-sections",
-        "card-detail-badges",
-        "card-buttons",
         "show-settings"
     ],
     "connectors": {
