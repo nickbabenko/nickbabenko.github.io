@@ -1,0 +1,18 @@
+{
+    "name": "GitLab",
+    "details": "",
+    "icon": {
+        "url": ""
+    },
+    "author": "Nick Babenko",
+    "capabilities": {
+        "attachment-sections",
+        "card-detail-badges",
+        "card-buttons"
+    },
+    "connectors": {
+        "iframe": {
+            "url": "./index.html"
+        }
+    }
+}
