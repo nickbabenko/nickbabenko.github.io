@@ -5,11 +5,12 @@
         "url": ""
     },
     "author": "Nick Babenko",
-    "capabilities": {
+    "capabilities": [
         "attachment-sections",
         "card-detail-badges",
-        "card-buttons"
-    },
+        "card-buttons",
+        "show-settings"
+    ],
     "connectors": {
         "iframe": {
             "url": "./index.html"
