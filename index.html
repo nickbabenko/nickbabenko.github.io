@@ -1,1 +1,5 @@
-<esi:vars name="req.http.x-custom-value" />
+<script type="FASTLY_REQUEST_PROPS">
+<esi:include src="/__fastly_request_props">
+  <esi:remove>{"customer_location":"unknown"}</esi:remove>
+</esi:include>
+</script>
